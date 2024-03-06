@@ -1,4 +1,4 @@
-- 🔗 Blockchain Developer | Smart Contracts Enthusiast | Solidity Coder 🚀
+- 🔗 Blockchain Developer | Smart Contracts Enthusiast | Solidity Coder 🚀 | Security Researcher
 
 - 👋 Exploring the decentralized world of blockchain with a focus on Solidity development. 💡 Turning ideas into smart contracts!
 
