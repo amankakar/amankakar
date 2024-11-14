@@ -8,7 +8,7 @@
 
 - 🌐 Check out my repositories for Solidity projects, smart contract audits, and more. Your feedback is highly appreciated! 🙌
 
-- 📫 Reach out to me at [your preferred contact info] to discuss blockchain, Solidity, or anything crypto-related. Let's build the trust layer of tomorrow's digital world! 🌐✨
+- 📫 Reach out to me at amankhan1017@gmail.com to discuss blockchain, Solidity, or anything crypto-related. Let's build the trust layer of tomorrow's digital world! 🌐✨
 
 <!---
 amankakar/amankakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
